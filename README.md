@@ -1,4 +1,4 @@
-# Finance Tracker:
+# Finance Tracker 🧾
 
  Simple bash script that allows user to store, remove, view, and clear their finances.
 
